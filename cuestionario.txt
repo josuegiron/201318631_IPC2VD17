@@ -1,0 +1,6 @@
+¿Qué entiende como "commit"?
+Es crear una imagen del proyecto o repositorio donde se esta trabajando.
+¿Qué entiende como "merge"?
+Cuando hay dos ramas el merge sirve para unir una rama con otra.
+¿Cuál es la diferencia entre "Pull" y "Push"?
+Pull sirve para obtener los commit del repositorio remoto que no se encuentran en el local mientras que push es enviar los commit locales que no se han agregado al repositorio remoto.
