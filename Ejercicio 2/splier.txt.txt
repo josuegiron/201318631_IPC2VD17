@@ -1,0 +1,21 @@
+tectura general de esta integración.
+Hay dos aspectos para el soporte de texto completo:
+(1) creación de índices y mantenimiento y (2) soporte
+de la consulta. El soporte de indexado involucra la creación,
+actualización y administración de catálogos de
+texto completo e índices definidos para una tabla o tablas
+en la base de datos. El soporte de la consulta involucra
+el procesamiento de las consultas de búsqueda de texto
+completo. Dado un predicado de texto completo, el servicio
+de búsqueda determina las entradas en el índice
+que cumplen el criterio de selección de texto completo.
+Para cada entrada que cumple el criterio de selección, el
+componente de consulta del servicio de búsqueda devuelve
+una fila, en un conjunto de filas OLE-DB, conteniendo
+la identidad de la fila cuyas columnas coinciden con el
+criterio de búsqueda y un valor de clasificación. Este
+conjunto de filas se utiliza como entrada a la consulta
+que está siendo procesada por el motor relacional SQL,
+al igual que cualquier otro conjunto de filas originado
+
+pagina 665
