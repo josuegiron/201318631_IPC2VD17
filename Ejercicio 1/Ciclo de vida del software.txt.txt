@@ -1,0 +1,6 @@
+El ciclo de vida del software se divide en 5 faces
+1. Analisis de requerimientos: se abstraen los requerimientos y objetivos que realizara el proyecto
+2. Analisis y diseño: se genera la solucion logica para el sistema.
+3. Construccion: se crea la solucion, o se genera el codigo.
+4. Pruebas: se verifica si la solucion creada resuelve efectivamente el problema.
+5. Mantenimiento: se actualiza u optimiza el codigo segun nuevas necesidades del cliente.

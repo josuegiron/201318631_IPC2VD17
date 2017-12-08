@@ -1,0 +1,1 @@
+La metodologia en cascada trabaja por segmentos o fases el proyecto, realizando una retroalimentacion en cada face y las pruebas para las proximas faces. 
